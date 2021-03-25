@@ -39,4 +39,4 @@ In reality, this looks as follows. On the left is the gripper with the floating 
 | | |
 |--|---|
 |![Levitating Foil](Images/levitating_foil.jpg) |![Gui](Images/gui.jpg) |
-|Levitating Foil |Python Surface |
+|Levitating Foil |Python Interface |
